@@ -40,7 +40,7 @@ class _CalculadoraScreenState extends State<CalculadoraScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Calculadora do Willian'),
+        title: Text('Calculadora de Financiamento'),
         backgroundColor: Colors.blueGrey,
       ),
       body: Padding(
